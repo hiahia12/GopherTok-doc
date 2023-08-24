@@ -1,6 +1,7 @@
 ---
 title: 指南
 icon: lightbulb
+footer: <a href="https://beian.miit.gov.cn">粤ICP备2023028963号</a>
 ---
 
 # 概况
@@ -145,3 +146,5 @@ etcd作为服务发现和注册中心
 ### 许可证
 
 **GopherTok** 在 **MIT** 许可证下开源,请在遵循 [MIT 开源证书](https://github.com/MashiroC/begonia/blob/master/LICENSE) 规则的前提下使用
+
+

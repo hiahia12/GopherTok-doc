@@ -99,5 +99,5 @@ highlights:
         link:
 
 copyright: false
-footer: 使用 <a href="https://theme-hope.vuejs.press/zh/" target="_blank">VuePress Theme Hope</a> 主题 | MIT 协议, 版权所有 © 2019-present Mr.Hope
+footer: <a href="https://beian.miit.gov.cn">粤ICP备2023028963号</a>
 ---

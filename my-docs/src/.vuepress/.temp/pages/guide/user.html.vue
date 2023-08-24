@@ -27,6 +27,7 @@
 <li>并发请求生成随机头像，背景图和个性签名的网站</li>
 <li>并发调用其他服务的rpc，大大减少了响应时间</li>
 </ul>
+<h2 id="footer-粤icp备2023028963号" tabindex="-1"><a class="header-anchor" href="#footer-粤icp备2023028963号" aria-hidden="true">#</a> footer: <a href="https://beian.miit.gov.cn">粤ICP备2023028963号</a></h2>
 </div></template>
 
 

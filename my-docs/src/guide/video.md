@@ -1,3 +1,7 @@
+---
+
+footer: <a href="https://beian.miit.gov.cn">粤ICP备2023028963号</a>
+---
 # video
 
 ## 发布视频

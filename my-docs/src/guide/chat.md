@@ -1,3 +1,7 @@
+---
+
+footer: <a href="https://beian.miit.gov.cn">粤ICP备2023028963号</a>
+---
 # chat
 ## 技术选型
 MySQL+Redis
@@ -17,3 +21,4 @@ MySQL+Redis
 ## 亮点
 - 使用redis的map结构缓存用户的好友列表之间的最后一条消息，提高系统的吞吐量
 - 使用雪花算法生成消息id，在分布式环境下保证消息id的唯一性
+

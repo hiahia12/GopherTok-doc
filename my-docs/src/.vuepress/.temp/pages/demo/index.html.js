@@ -1,14 +1,1 @@
-export const data = JSON.parse("{\"key\":\"v-1473bf53\",\"path\":\"/demo/\",\"title\":\"测试\",\"lang\":\"zh-CN\",\"frontmatter\":{\"description\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-docs-demo.netlify.app/demo/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"GopherTok\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"测试\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"Gopher\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"测试\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":null,\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"Gopher\\\",\\\"url\\\":\\\"https://github.com/GophersTeam\\\"}]}\"]]},\"headers\":[],\"readingTime\":{\"minutes\":0.01,\"words\":2},\"filePathRelative\":\"demo/README.md\",\"autoDesc\":true}")
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}
+export const data = JSON.parse("{\"key\":\"v-1473bf53\",\"path\":\"/demo/\",\"title\":\"测试\",\"lang\":\"zh-CN\",\"frontmatter\":{\"footer\":\"<a href=\\\"https://beian.miit.gov.cn\\\">粤ICP备2023028963号</a>\",\"description\":\"\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://vuepress-theme-hope-docs-demo.netlify.app/demo/\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"GopherTok\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"测试\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}],[\"meta\",{\"property\":\"og:updated_time\",\"content\":\"2023-08-24T05:19:54.000Z\"}],[\"meta\",{\"property\":\"article:author\",\"content\":\"Gopher\"}],[\"meta\",{\"property\":\"article:modified_time\",\"content\":\"2023-08-24T05:19:54.000Z\"}],[\"script\",{\"type\":\"application/ld+json\"},\"{\\\"@context\\\":\\\"https://schema.org\\\",\\\"@type\\\":\\\"Article\\\",\\\"headline\\\":\\\"测试\\\",\\\"image\\\":[\\\"\\\"],\\\"dateModified\\\":\\\"2023-08-24T05:19:54.000Z\\\",\\\"author\\\":[{\\\"@type\\\":\\\"Person\\\",\\\"name\\\":\\\"Gopher\\\",\\\"url\\\":\\\"https://github.com/GophersTeam\\\"}]}\"]]},\"headers\":[],\"git\":{\"createdTime\":1692854394000,\"updatedTime\":1692854394000,\"contributors\":[{\"name\":\"hiahia12\",\"email\":\"284662907@qq.com\",\"commits\":1}]},\"readingTime\":{\"minutes\":0.04,\"words\":13},\"filePathRelative\":\"demo/README.md\",\"localizedDate\":\"2023年8月24日\",\"autoDesc\":true}")

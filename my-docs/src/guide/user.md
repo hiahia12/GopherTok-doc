@@ -1,3 +1,7 @@
+---
+
+footer: <a href="https://beian.miit.gov.cn">粤ICP备2023028963号</a>
+---
 # User
 
 ## 用户注册
@@ -42,3 +46,6 @@ kafka消费消息，再加上返回随机图片的url作为头像和背景的url
 * 注册后通过kafka进行异步操作，存入用户信息
 * 并发请求生成随机头像，背景图和个性签名的网站
 * 并发调用其他服务的rpc，大大减少了响应时间
+
+footer: <a href="https://beian.miit.gov.cn">粤ICP备2023028963号</a>
+---
