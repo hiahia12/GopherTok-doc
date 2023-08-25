@@ -5,6 +5,8 @@ export const pagesData = {
   "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
   // path: /guide/chat.html
   "v-048a1515": () => import(/* webpackChunkName: "v-048a1515" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/guide/chat.html.js").then(({ data }) => data),
+  // path: /guide/comment.html
+  "v-43ecacc6": () => import(/* webpackChunkName: "v-43ecacc6" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/guide/comment.html.js").then(({ data }) => data),
   // path: /guide/favor.html
   "v-49823b47": () => import(/* webpackChunkName: "v-49823b47" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/guide/favor.html.js").then(({ data }) => data),
   // path: /guide/

@@ -1,1 +1,1 @@
-export const sidebarData = {"/demo/":[""],"/guide/":["","favor","chat","relation","user","video"]};
+export const sidebarData = {"/demo/":[""],"/guide/":["","chat","comment","favor","relation","user","video"]};

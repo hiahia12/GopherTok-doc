@@ -22,6 +22,9 @@
 <tr>
 <td><RouterLink to="/guide/user.html">user</RouterLink></td>
 </tr>
+<tr>
+<td><RouterLink to="/guide/comment.html">comment</RouterLink></td>
+</tr>
 </tbody>
 </table>
 <h2 id="gophertok" tabindex="-1"><a class="header-anchor" href="#gophertok" aria-hidden="true">#</a> GopherTok</h2>

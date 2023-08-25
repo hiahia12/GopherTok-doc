@@ -5,202 +5,150 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="086f74ad-9afc-4fe5-adf3-617c09e1a529" name="变更" comment="build">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/404.html-891fa38f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/404.html-cc2ee4c1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_AMS-Regular-0cdd387c.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_AMS-Regular-30da91e8.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_AMS-Regular-68534840.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Caligraphic-Bold-07d8e303.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Caligraphic-Bold-1ae6bd74.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Caligraphic-Bold-de7701e4.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Caligraphic-Regular-3398dd02.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Caligraphic-Regular-5d53e70a.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Caligraphic-Regular-ed0b7437.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Fraktur-Bold-74444efd.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Fraktur-Bold-9163df9c.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Fraktur-Bold-9be7ceb8.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Fraktur-Regular-1e6f9579.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Fraktur-Regular-51814d27.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Fraktur-Regular-5e28753b.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-Bold-0f60d1b8.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-Bold-138ac28d.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-Bold-c76c5d69.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-BoldItalic-70ee1f64.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-BoldItalic-99cd42a3.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-BoldItalic-a6f7ec0d.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-Italic-0d85ae7c.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-Italic-97479ca6.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-Italic-f1d6ef86.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-Regular-c2342cd8.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-Regular-c6368d87.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Main-Regular-d0332f52.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Math-BoldItalic-850c0af5.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Math-BoldItalic-dc47344d.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Math-BoldItalic-f9377ab0.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Math-Italic-08ce98e5.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Math-Italic-7af58c5e.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Math-Italic-8a8d2445.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_SansSerif-Bold-1ece03f7.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_SansSerif-Bold-e99ae511.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_SansSerif-Bold-ece03cfd.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_SansSerif-Italic-00b26ac8.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_SansSerif-Italic-3931dd81.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_SansSerif-Italic-91ee6750.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_SansSerif-Regular-11e4dc8a.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_SansSerif-Regular-68e8c73e.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_SansSerif-Regular-f36ea897.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Script-Regular-036d4e95.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Script-Regular-1c67f068.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Script-Regular-d96cdf2b.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Size1-Regular-6b47c401.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Size1-Regular-95b6d2f1.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Size1-Regular-c943cc98.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Size2-Regular-2014c523.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Size2-Regular-a6b2099f.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Size2-Regular-d04c5421.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Size3-Regular-500e04d5.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Size3-Regular-6ab6b62e.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Size4-Regular-99f9c675.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Size4-Regular-a4af7d41.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Size4-Regular-c647367d.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Typewriter-Regular-71d517d6.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Typewriter-Regular-e14fed02.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/KaTeX_Typewriter-Regular-f01f3e87.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/VuePlayground-5e071c76.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/app-c6e67914.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/arc-cff3cdbd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/array-9f3ba611.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/auto-712ff3ee.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/c4Diagram-4de0d805-ebdb884c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/chat.html-a79c1c77.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/chat.html-f0652557.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/classDiagram-0da88708-f834a581.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/classDiagram-v2-2f4ae322-a4d3f5ac.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/codemirror-editor-3bcc0c8f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/commonjs-dynamic-modules-302442b1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/commonjsHelpers-de833af9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/createText-b670c180-7ce738f6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/edges-c959041a-4e32e4db.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/erDiagram-105a1cb2-ff8741fd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/favor.html-d2039cd9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/favor.html-f76da487.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/flowDb-01624e90-0e8bf230.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/flowDiagram-42ba8acc-cab16e3d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/flowDiagram-v2-e4ef3cbe-09236800.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/flowchart-c441f34d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/flowchart-elk-definition-8136f426-b4f4c8dd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/ganttDiagram-33119f0c-e2bfdaed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/gitGraphDiagram-1dcba3c4-6ce158f3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/highlight.esm-75b11b9d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/icon/guide-maskable.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/image/advanced.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/image/blog.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/image/box.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/image/features.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/image/github-dark.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/image/github-light.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/image/layout.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/image/markdown.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index-2bf332f6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index-892ad7fb-350d5053.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-50392d99.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-67ac60f5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-7ae44d47.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-895f2051.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-de6c280a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-f6cfc54a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/infoDiagram-99aec0e9-aa918a75.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/init-77b53fdd.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/journeyDiagram-50e783bb-819fb509.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/layout-c4555b39.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/league-gothic-38fcc721.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/league-gothic-5eef6df8.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/league-gothic-8802c66a.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/line-88a55953.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/linear-11dccf0b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/markdown.esm-abe06b83.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/math.esm-70a288c8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/mermaid.core-8d10b755.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/mindmap-definition-5f036dbb-e122a2e9.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/notes.esm-a106bb2c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/ordinal-ba9b4969.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/path-53f90ab3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/photoswipe.esm-5794cde2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/pieDiagram-b06a513b-b2ba4567.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/plugin-vue_export-helper-c27b6911.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/quadrantDiagram-42727e21-4ee432cc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/relation.html-1cf48750.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/relation.html-5a986c07.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/requirementDiagram-96e78f61-ac16244f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/reveal.esm-ec5549c1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/sankeyDiagram-91977475-dd44b906.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/search.esm-7e6792e2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/sequenceDiagram-342ef5c4-016b5a03.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-italic-05d3615f.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-italic-ad4b0799.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-italic-d13268af.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-regular-c1865d89.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-regular-d4eaa48b.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-regular-dce8869d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-semibold-a53e2723.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-semibold-b0abd273.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-semibold-ebb8918d.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-semibolditalic-7225cacc.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-semibolditalic-dfe0b47a.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/source-sans-pro-semibolditalic-e8ec22b6.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/stateDiagram-3ac8af33-aefa489b.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/stateDiagram-v2-ca22f0dc-e1791512.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/style-240c6e66.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/styles-1e36f090-5d3d807a.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/styles-4fcf332f-4dd1c008.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/styles-d0b2ab71-9fefa0e8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/svgDraw-b48a99d5-9738dbe8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/svgDrawCommon-f26cad39-939c857d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/timeline-definition-cbf43e70-d72b3e6d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/user.html-d5937bbe.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/user.html-f851c4a3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/utils-a5e1dbae-143be013.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/video.html-2f884624.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/video.html-d0abab3d.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/vue-repl-b896e42c.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/zoom.esm-b83b91d0.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/demo/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/guide/chat.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/guide/favor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/guide/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/guide/relation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/guide/user.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/guide/video.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/sitemap.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/my-docs/doc/sitemap.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/404.html-109cee19.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/VuePlayground-3d71b56a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/app-a74d04cf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/arc-f099c7ba.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/c4Diagram-4de0d805-8c87db97.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/chat.html-024f6bab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/chat.html-d2ab909f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/classDiagram-0da88708-46eaa353.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/classDiagram-v2-2f4ae322-8b86bdaa.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/codemirror-editor-c5c0543f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/comment.html-893ef176.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/comment.html-a661f77c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/createText-b670c180-dd381a34.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/edges-c959041a-03d7260a.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/erDiagram-105a1cb2-9e173a36.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/favor.html-98474528.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/favor.html-c13bfd82.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/flowDb-01624e90-748ecd3c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/flowDiagram-42ba8acc-a3e8d50e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/flowDiagram-v2-e4ef3cbe-276600e3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/flowchart-elk-definition-8136f426-096734f2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/ganttDiagram-33119f0c-bb50ea4b.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/gitGraphDiagram-1dcba3c4-15597fe2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index-892ad7fb-e1026616.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-1c81994f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-43608efe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-5098fd4f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-7b61b9ab.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-ce2945f9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/index.html-d8f12c4c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/infoDiagram-99aec0e9-4b336fa8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/journeyDiagram-50e783bb-9bae87da.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/layout-2b5ae25c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/line-ff4dbbe0.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/linear-77d7af84.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/mermaid.core-e346afe7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/mindmap-definition-5f036dbb-e48574ff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/pieDiagram-b06a513b-17e8b41e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/quadrantDiagram-42727e21-64e57aa8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/relation.html-85e4f609.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/relation.html-da047fb1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/requirementDiagram-96e78f61-36086b0e.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/sankeyDiagram-91977475-47a9ccd6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/sequenceDiagram-342ef5c4-d9472c90.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/stateDiagram-3ac8af33-b61f4157.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/stateDiagram-v2-ca22f0dc-8cf6ca1f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/styles-1e36f090-298c6e5c.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/styles-4fcf332f-2568f1a9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/styles-d0b2ab71-3d952ac6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/svgDraw-b48a99d5-dac21898.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/svgDrawCommon-f26cad39-2f743472.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/timeline-definition-cbf43e70-0f2602f4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/user.html-dbe513f9.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/user.html-f32ed03d.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/video.html-42345c21.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/video.html-6fb53a21.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/assets/vue-repl-c9df265f.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/doc/guide/comment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/comment.html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/comment.html.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-docs/src/guide/comment.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/internal/siteData.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/internal/siteData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/doc/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/404.html-cc2ee4c1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/VuePlayground-5e071c76.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/app-c6e67914.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/arc-cff3cdbd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/c4Diagram-4de0d805-ebdb884c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/chat.html-a79c1c77.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/chat.html-f0652557.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/classDiagram-0da88708-f834a581.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/classDiagram-v2-2f4ae322-a4d3f5ac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/codemirror-editor-3bcc0c8f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/createText-b670c180-7ce738f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/edges-c959041a-4e32e4db.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/erDiagram-105a1cb2-ff8741fd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/favor.html-d2039cd9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/favor.html-f76da487.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/flowDb-01624e90-0e8bf230.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/flowDiagram-42ba8acc-cab16e3d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/flowDiagram-v2-e4ef3cbe-09236800.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/flowchart-elk-definition-8136f426-b4f4c8dd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/ganttDiagram-33119f0c-e2bfdaed.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/gitGraphDiagram-1dcba3c4-6ce158f3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/index-892ad7fb-350d5053.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/index.html-50392d99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/index.html-67ac60f5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/index.html-7ae44d47.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/index.html-895f2051.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/index.html-de6c280a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/index.html-f6cfc54a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/infoDiagram-99aec0e9-aa918a75.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/journeyDiagram-50e783bb-819fb509.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/layout-c4555b39.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/line-88a55953.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/linear-11dccf0b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/mermaid.core-8d10b755.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/mindmap-definition-5f036dbb-e122a2e9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/pieDiagram-b06a513b-b2ba4567.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/quadrantDiagram-42727e21-4ee432cc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/relation.html-1cf48750.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/relation.html-5a986c07.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/requirementDiagram-96e78f61-ac16244f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/sankeyDiagram-91977475-dd44b906.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/sequenceDiagram-342ef5c4-016b5a03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/stateDiagram-3ac8af33-aefa489b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/stateDiagram-v2-ca22f0dc-e1791512.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/styles-1e36f090-5d3d807a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/styles-4fcf332f-4dd1c008.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/styles-d0b2ab71-9fefa0e8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/svgDraw-b48a99d5-9738dbe8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/svgDrawCommon-f26cad39-939c857d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/timeline-definition-cbf43e70-d72b3e6d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/user.html-d5937bbe.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/user.html-f851c4a3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/video.html-2f884624.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/video.html-d0abab3d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/assets/vue-repl-b896e42c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/demo/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/doc/demo/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/guide/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/doc/guide/chat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/guide/favor.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/doc/guide/favor.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/guide/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/doc/guide/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/guide/relation.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/doc/guide/relation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/guide/user.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/doc/guide/user.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/guide/video.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/doc/guide/video.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/doc/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/doc/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/doc/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/internal/pagesComponents.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/internal/pagesComponents.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/internal/pagesData.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/internal/pagesData.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/internal/pagesRoutes.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/internal/pagesRoutes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/internal/themeData.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/internal/themeData.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/404.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/404.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/demo/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/demo/index.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/chat.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/chat.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/favor.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/favor.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/index.html.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/index.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/index.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/relation.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/relation.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/user.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/user.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/user.html.vue" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/user.html.vue" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/video.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/guide/video.html.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/index.html.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/pages/index.html.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/config.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/config.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/theme.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/theme.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/demo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/demo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/theme-hope/sidebar.js" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/.temp/theme-hope/sidebar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my-docs/src/.vuepress/navbar.ts" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/.vuepress/navbar.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-docs/src/guide/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/guide/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/guide/chat.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/guide/chat.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/my-docs/src/guide/favor.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/guide/favor.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/guide/relation.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/guide/relation.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/guide/user.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/guide/user.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my-docs/src/guide/video.md" beforeDir="false" afterPath="$PROJECT_DIR$/my-docs/src/guide/video.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

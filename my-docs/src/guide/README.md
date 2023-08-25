@@ -6,13 +6,14 @@ footer: <a href="https://beian.miit.gov.cn">粤ICP备2023028963号</a>
 
 # 概况
 ## 服务
-| 服务                               |
-|----------------------------------|
-| [chat](chat.md)             |
-| [favor](user.md)            |
-| [video](video.md)          |
+| 服务                      |
+|-------------------------|
+| [chat](chat.md)         |
+| [favor](user.md)        |
+| [video](video.md)       |
 | [relation](relation.md) |
-| [user](user.md)             |
+| [user](user.md)         |
+| [comment](comment.md)      |
 
 ## GopherTok
 

@@ -7,6 +7,8 @@ export const pagesComponents = {
   "v-1473bf53": defineAsyncComponent(() => import(/* webpackChunkName: "v-1473bf53" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/demo/index.html.vue")),
   // path: /guide/chat.html
   "v-048a1515": defineAsyncComponent(() => import(/* webpackChunkName: "v-048a1515" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/guide/chat.html.vue")),
+  // path: /guide/comment.html
+  "v-43ecacc6": defineAsyncComponent(() => import(/* webpackChunkName: "v-43ecacc6" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/guide/comment.html.vue")),
   // path: /guide/favor.html
   "v-49823b47": defineAsyncComponent(() => import(/* webpackChunkName: "v-49823b47" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/guide/favor.html.vue")),
   // path: /guide/

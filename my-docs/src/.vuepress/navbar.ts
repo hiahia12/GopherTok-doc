@@ -18,7 +18,7 @@ export default navbar([
         text: "详情",
         icon: "lightbulb",
         prefix: "",
-        children: ["favor.md","user.md","relation.md","chat.md","video.md", { text: "", icon: "", link: "" }],
+        children: ["favor.md","user.md","relation.md","chat.md","video.md","comment.md", { text: "", icon: "", link: "" }],
       },
     ],
   },
