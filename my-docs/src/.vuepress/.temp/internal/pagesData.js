@@ -13,6 +13,8 @@ export const pagesData = {
   "v-fffb8e28": () => import(/* webpackChunkName: "v-fffb8e28" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/guide/index.html.js").then(({ data }) => data),
   // path: /guide/relation.html
   "v-2fa66a1e": () => import(/* webpackChunkName: "v-2fa66a1e" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/guide/relation.html.js").then(({ data }) => data),
+  // path: /guide/subject.html
+  "v-8aed03ce": () => import(/* webpackChunkName: "v-8aed03ce" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/guide/subject.html.js").then(({ data }) => data),
   // path: /guide/user.html
   "v-8f93e6fc": () => import(/* webpackChunkName: "v-8f93e6fc" */"D:/GopherTok-doc/my-docs/src/.vuepress/.temp/pages/guide/user.html.js").then(({ data }) => data),
   // path: /guide/video.html

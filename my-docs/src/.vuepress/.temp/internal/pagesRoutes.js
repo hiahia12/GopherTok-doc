@@ -6,6 +6,7 @@ export const pagesRoutes = [
   ["v-49823b47","/guide/favor.html",{"y":"a","t":"favor"},[":md"]],
   ["v-fffb8e28","/guide/",{"y":"a","t":"指南","i":"lightbulb"},["/guide/README.md"]],
   ["v-2fa66a1e","/guide/relation.html",{"y":"a","t":"Relation"},[":md"]],
+  ["v-8aed03ce","/guide/subject.html",{"y":"a","t":"Subject"},[":md"]],
   ["v-8f93e6fc","/guide/user.html",{"y":"a","t":"User"},[":md"]],
   ["v-676a79ac","/guide/video.html",{"y":"a","t":"video"},[":md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
